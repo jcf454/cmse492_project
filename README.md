@@ -2,7 +2,7 @@
 
 **Title** Predicting Stroke Risk from Health Indicators  
 **Author:** Jared Frazier  
-**Course:** CMSE 492 – Machine Learning Capstone  
+**Course:** CMSE 492 – Machine Learning 
 **Date:** Fall 2025  
 
 ---
